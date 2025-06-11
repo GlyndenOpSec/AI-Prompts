@@ -54,7 +54,6 @@ This repo accompanies my article:
 
 ## 🤝 Contribute or Connect
 
-This is a living archive. If you're exploring **prompt security**, **autonomous agents**, or **human-in-the-loop alignment**, feel free to fork, remix, or reach out.  
-Let’s build better prompts—and better AI behavior—together.
+This is a living archive. If you're exploring **prompt security**, **autonomous agents**, or **human-in-the-loop alignment**, feel free to fork, remix, or reach out. 
 
 ---
