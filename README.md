@@ -1,11 +1,7 @@
-Thanks for the correction! Here's the updated and polished `README.md` for your GitHub repo, now with the correct article title and a tone that reflects your analytical and creative approach:
-
----
-
 # AI-Prompts  
 *A curated collection of prompt architectures, behavioral scaffolds, and AI evaluation tools.*
 
-This repository supports the ideas explored in my article, [“The Most Accurate AI Prompts—According to AI...”](https://www.linkedin.com/pulse/most-accurate-ai-promptsaccording-glynden-breen-oefbc), where I examine how prompt design influences the behavior, reliability, and interpretability of large language models. These files represent my ongoing work in **prompt engineering, AI alignment, and behavioral control**.
+This repository supports the ideas explored in my article, [“The Most Accurate AI Prompts—According to AI...”](https://www.linkedin.com/pulse/most-accurate-ai-promptsaccording-glynden-breen-oefbc). Where I stayed up too late and went down an AI rabbit hole...
 
 ---
 
@@ -55,9 +51,4 @@ This repo complements the ideas in my article:
 
 ## 🤝 Contribute or Connect
 
-This is a living archive. If you're working on **prompt security, AI alignment, or autonomous reasoning**, feel free to fork, remix, or reach out.  
-Let’s build better prompts—and better AI behavior—together.
-
----
-
-Let me know if you’d like a version tailored for a specific audience—recruiters, researchers, or policy folks. I can also help you design a visual map of the prompt structures if you want to take it further. 🚀
+This is a living archive. If you're working on **prompt security, AI alignment, or autonomous reasoning**, feel free to fork, remix, or reach out. 
