@@ -8,7 +8,7 @@ This repository supports the ideas explored in my article, [“The Most Accurate
 ## 🧠 What This Is
 
 --AI speak--
-<n>This is not a prompt list—it’s a **design lab** for building and testing prompt structures that produce consistent, interpretable, and high-performance outputs. It includes:
+<br>This is not a prompt list—it’s a **design lab** for building and testing prompt structures that produce consistent, interpretable, and high-performance outputs. It includes:
 
 - Autonomous reasoning loops  
 - Universal prompt scaffolds  
@@ -17,7 +17,7 @@ This repository supports the ideas explored in my article, [“The Most Accurate
 - Comparative prompt performance analysis
 
 --Human translation--
-<n>Me, fucking around too much...
+<br>Me, fucking around too much...
 
 ---
 
