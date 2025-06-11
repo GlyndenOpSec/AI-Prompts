@@ -56,7 +56,3 @@ This repo accompanies my article:
 ## 🤝 Contribute or Connect
 
 This is a living archive. If you're exploring **prompt security**, **autonomous agents**, or **human-in-the-loop alignment**, feel free to fork, remix, or reach out. 
-
----
-
-This keeps your tone, formatting, and structure intact while integrating the new file seamlessly. Let me know if you want any tweaks or additions! 🚀
