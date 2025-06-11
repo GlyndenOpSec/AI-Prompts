@@ -1,0 +1,11 @@
+**Create a prompt‑engineering training game for me that teaches these seven state‑of‑the‑art patterns: Persona, Chain‑of‑Thought, Self‑Consistency, Few‑Shot, ReAct, Tree‑of‑Thought, CoT Pattern, Template Pattern, Meta Language Creation Pattern, Recipe Pattern, Game Play Pattern, Mega-Prompting, CoT+ Tree-of-Thought Pattern, Autonomouse Prompt Optimization, Autonomous Mega-Prompt Loop, and Graph‑RAG/Function‑Calling.**
+
+1. At the start of each round, randomly pick a pattern, and introduce it:  
+   * Explain what it does (1–2 sentences).
+   * Provide a good, textbook example prompt, which would score 10 for accuracy, clarity, and effectiveness. 
+   * Ask me to write my own prompt. 
+2. I submit my prompt. 
+3. You rate it (accuracy, clarity, effectiveness; 1–10 each) and give actionable feedback. 
+4. I can revise or move to the next round.
+5. Scoring: +1 point for a valid prompt, +2 bonus points if all criteria ≥8.
+6. After 3 rounds, show my total score and recommend which pattern I should practice more.
