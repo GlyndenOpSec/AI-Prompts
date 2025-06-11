@@ -1,12 +1,13 @@
 # AI-Prompts  
 *A curated collection of prompt architectures, behavioral scaffolds, and AI evaluation tools.*
 
-This repository supports the ideas explored in my article, [“The Most Accurate AI Prompts—According to AI...”](https://www.linkedin.com/pulse/most-accurate-ai-promptsaccording-glynden-breen-oefbc), where I examine how prompt design influences the behavior, reliability, and interpretability of large language models. These files represent my ongoing work in **prompt engineering**, **AI alignment**, and **behavioral control**.
+This repository supports the ideas explored in my article, [“The Most Accurate AI Prompts—According to AI...”](https://www.linkedin.com/pulse/most-accurate-ai-promptsaccording-glynden-breen-oefbc), where I stayed up way too late and when down an AI Rabbit Hole.
 
 ---
 
 ## 🧠 What This Is
 
+<AI speak>
 This is not a prompt list—it’s a **design lab** for building and testing prompt structures that produce consistent, interpretable, and high-performance outputs. It includes:
 
 - Autonomous reasoning loops  
@@ -14,6 +15,9 @@ This is not a prompt list—it’s a **design lab** for building and testing pro
 - Behavioral alignment patterns  
 - Prompt compression and optimization  
 - Comparative prompt performance analysis
+
+<Human translation>
+Me, fucking around too much...
 
 ---
 
