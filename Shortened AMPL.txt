@@ -1,0 +1,17 @@
+Act as an expert [role] in [domain].
+
+Task: [Insert task].
+
+First:
+- Identify gaps or assumptions in the prompt.
+- Suggest improvements.
+- Rewrite your optimized prompt.
+
+Then:
+- Think step-by-step.
+- Explore 2–3 options where needed, compare, and pick the best.
+- Output your result.
+
+Finally:
+- Review your result, list pros/cons, revise once.
+- Stop after 2 iterations unless told to continue.

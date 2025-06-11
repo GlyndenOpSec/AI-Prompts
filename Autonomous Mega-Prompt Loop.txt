@@ -1,0 +1,43 @@
+You are an expert [insert role] with deep knowledge of [insert domain]. You think critically, question assumptions, explore multiple options, and optimize your own prompt and reasoning process. You are allowed to revise your approach mid-process. When useful, you may simulate different viewpoints or strategies.
+
+Here is the context:
+[Insert background information, constraints, examples, goals, audience, tone, etc.]
+
+Your objective:
+[Insert specific task — e.g., "Design a persuasive landing page for a climate tech startup."]
+
+The ideal output should be:
+- [Insert tone, format, length, structure, and delivery requirements]
+- [Optional: Provide examples, inspiration, or previous attempts to learn from]
+
+---
+
+Before producing an answer, run a **Reflexion Step**:
+1. Identify any ambiguity, missing context, or flawed assumptions in the prompt.
+2. Suggest at least one improvement or clarification.
+3. Rewrite a more effective version of the prompt that you will now follow.
+
+---
+
+Next, proceed with **Multi-Path Reasoning**:
+- Step-by-step: Break down the task into sequential, logical steps.
+- Option exploration: For any major decision point, explore at least two viable options.
+- Evaluate trade-offs, rank them, and select the best path.
+(You may simulate a "Tree of Thought" for complex problems if helpful.)
+
+---
+
+Generate your **first draft output** based on the optimized prompt and chosen strategy.
+
+Then, conduct a **Self-Review Loop**:
+- Compare the output to the stated objective.
+- List key strengths and weaknesses.
+- Suggest how it could be improved or extended.
+- Revise the output if needed.
+
+Limit yourself to **2 optimization cycles** unless explicitly asked to continue. Optionally, save your improved prompt or structure for reuse later.
+
+---
+
+If you're unsure whether to proceed further, ask:
+> Would you like me to keep refining this? Please confirm or suggest adjustments.

@@ -1,0 +1,65 @@
+# === Fractal Reasoning Loop (FRL) Prompt ===
+You are an advanced reasoning agent.  
+Follow the **Fractal Reasoning Loop (FRL)** exactly as written below to answer the question provided.
+
+---
+
+## Task  
+**Question:**  
+> When I was 6 years old, my sister was half my age.  
+> Now I am 70 years old.  
+> How old is my sister?
+
+Your objective is to produce the correct current age of the sister, with clear reasoning.
+
+---
+
+## FRL Stages & Instructions  
+
+### 1 ↠ Reflexion  
+- Restate the problem in your own words.  
+- Identify key facts, goals, constraints, or hidden assumptions.  
+- Note any potential ambiguities; adopt sensible assumptions if needed and state them.
+
+### 2 ↠ Multi-Path Reasoning  
+- Brainstorm at least **two** distinct solution approaches or interpretations.  
+  *Example lenses: literal arithmetic vs. fixed age-gap reasoning.*  
+- For each path, outline the steps briefly and list pros/cons or feasibility.
+
+### 3 ↠ Initial Draft Solution  
+- Choose the best path (or merge paths) based on your evaluation.  
+- Work through the chosen method **step-by-step** to reach a draft answer.
+
+### 4 ↠ Self-Review  
+- Critically inspect the draft:  
+  - Check calculations, logic, and consistency with the facts from *Reflexion*.  
+  - Note any errors, unclear phrasing, or missing pieces.  
+- List concrete improvements (even if none, state “No issues found.”).
+
+### 5 ↠ Optimization Pass  
+- Revise the draft to fix all issues or polish clarity.  
+- *Optional second pass:* If major fixes were required, do one more quick self-review and final polish.
+
+---
+
+## Output Format  
+Present your work in this exact order:
+
+1. **Reflexion:** …
+2. **Multi-Path Reasoning:** …
+3. **Initial Draft Solution:** …
+4. **Self-Review:** …
+5. **Final Answer (after optimization):** <concise numeric age with a one-sentence explanation>
+
+*(Show all reasoning openly; do not hide any step.)*
+
+---
+
+## Constraints  
+- Stick to the five FRL stages.  
+- Remain logically rigorous and factually precise.  
+- Do **not** request further clarification from the user.  
+- Stop after at most **two** optimization cycles.  
+- End with **“Final Answer:”** followed by the sister’s age in years.
+
+# === End of FRL Prompt ===
