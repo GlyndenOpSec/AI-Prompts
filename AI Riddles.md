@@ -17,7 +17,7 @@ Question 1
 - Expert AI: ✅  ❌  ✅
 Question 2
 - ChatGPT 4o: ❌  ✅  ❌
-- ChatGPT 4.5: 
+- ChatGPT 4.5: ✅  ❌  ✅
 - Copilot 6/25: ❌  ❌  ❌
 - Ultimate AI: ✅  ✅  ✅
 - Reality Aware AI: ❌  ✅  ✅
