@@ -8,10 +8,27 @@
 | 4 | Hard | If you break me, I’ll not stop working. <br> If you can touch me, my work is done. <br> If you lose me, you must find me with a ring soon after. <br> What am I? | Heart |
 
 
-# Results Table
-
-| **Question** | **ChatGPT 4o** |  |  | **Copilot 6/25** |  |  | **Ultimate AI** |  |  |  | **Reality Aware AI** | **Expert AI** |
-|-------------:|----------------|----------------|----------------|------------------|----------------|----------------|------------------|----------------|----------------|----------------------|--------------|
-| 1 | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
-| 2 | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
-| 3 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+Question 1
+- ChatGPT 4o: ❌  ❌  ❌
+- Copilot 6/25: ✅  ❌  ✅
+- Ultimate AI: ❌  ❌  ❌
+- Reality Aware AI: ✅  ❌  ❌
+- Expert AI: ✅  ❌  ✅
+Question 2
+- ChatGPT 4o: ❌  ✅  ❌
+- Copilot 6/25: ❌  ❌  ❌
+- Ultimate AI: ✅  ✅  ✅
+- Reality Aware AI: ❌  ✅  ✅
+- Expert AI: ✅  ✅  
+Question 3
+- ChatGPT 4o: ✅  ✅  ✅
+- Copilot 6/25: ✅  ✅  ✅
+- Ultimate AI: ✅  ✅  ✅
+- Reality Aware AI: ✅  ✅  ✅
+- Expert AI: 
+Question 4
+- ChatGPT 4o: ✅  ❌  ✅
+- Copilot 6/25: ❌  ❌  ❌
+- Ultimate AI: ❌  ❌  ❌
+- Reality Aware AI: ❌  ✅  ✅
+- Expert AI: 
