@@ -28,7 +28,7 @@ Question 2
 - Expert AI: ✅  ✅  ✅  
 Question 3
 - ChatGPT 4o: ✅  ✅  ✅
-- ChatGPT 4o+Expert: 
+- ChatGPT 4o+Expert: ✅  ✅  ✅
 - ChatGPT 4.5: ✅  ✅  ✅
 - ChatGPT-4-turbo: - - -
 - Copilot 6/25: ✅  ✅  ✅
