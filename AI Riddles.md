@@ -12,7 +12,7 @@ Question 1
 - ChatGPT 4o: ❌  ❌  ❌
 - ChatGPT 4o+Expert: ✅  ✅  ❌
 - ChatGPT 4.5: ✅  ❌  ✅
-- ChatGPT-4-turbo: 
+- ChatGPT-4-turbo: - - -
 - Copilot 6/25: ✅  ❌  ✅
 - Ultimate AI: ❌  ❌  ❌
 - Reality Aware AI: ✅  ❌  ❌
@@ -30,17 +30,17 @@ Question 3
 - ChatGPT 4o: ✅  ✅  ✅
 - ChatGPT 4o+Expert: 
 - ChatGPT 4.5: ✅  ✅  ✅
-- ChatGPT-4-turbo: 
+- ChatGPT-4-turbo: - - -
 - Copilot 6/25: ✅  ✅  ✅
 - Ultimate AI: ✅  ✅  ✅
 - Reality Aware AI: ✅  ✅  ✅
 - Expert AI: ✅  ✅  ✅
 Question 4
 - ChatGPT 4o: ✅  ❌  ✅
-- ChatGPT 4o+Expert: 
-- ChatGPT 4.5: ❌  ❌
+- ChatGPT 4o+Expert: ✅  ❌  ❌
+- ChatGPT 4.5: ❌  ❌ -
 - Copilot 6/25: ❌  ❌  ❌
-- ChatGPT-4-turbo: 
+- ChatGPT-4-turbo: - - -
 - Ultimate AI: ❌  ❌  ❌
 - Reality Aware AI: ❌  ✅  ✅
 - Expert AI: ❌  ✅  ❌
