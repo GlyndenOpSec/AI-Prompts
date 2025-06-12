@@ -10,6 +10,7 @@
 
 Question 1
 - ChatGPT 4o: ❌  ❌  ❌
+- ChatGPT 4o+Expert: 
 - ChatGPT 4.5: ✅  ❌  ✅
 - ChatGPT-4-turbo: 
 - Copilot 6/25: ✅  ❌  ✅
@@ -18,6 +19,7 @@ Question 1
 - Expert AI: ✅  ❌  ✅
 Question 2
 - ChatGPT 4o: ❌  ✅  ❌
+- ChatGPT 4o+Expert: 
 - ChatGPT 4.5: ✅  ❌  ✅
 - ChatGPT-4-turbo: 
 - Copilot 6/25: ❌  ❌  ❌
@@ -26,6 +28,7 @@ Question 2
 - Expert AI: ✅  ✅  ✅  
 Question 3
 - ChatGPT 4o: ✅  ✅  ✅
+- ChatGPT 4o+Expert: 
 - ChatGPT 4.5: ✅  ✅  ✅
 - ChatGPT-4-turbo: 
 - Copilot 6/25: ✅  ✅  ✅
@@ -34,6 +37,7 @@ Question 3
 - Expert AI: ✅  ✅  ✅
 Question 4
 - ChatGPT 4o: ✅  ❌  ✅
+- ChatGPT 4o+Expert: 
 - ChatGPT 4.5: ❌  ❌
 - Copilot 6/25: ❌  ❌  ❌
 - ChatGPT-4-turbo: 
