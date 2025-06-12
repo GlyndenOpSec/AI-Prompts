@@ -6,3 +6,14 @@
 | 2 | Hard | Alice has 2 brothers and she also has 3 sisters. How many sisters does Alice's brother have? | 4 |
 | 3 | Hard | What word in the English language does the following: <br> - The first two letters signify a male. <br> - The first three letters signify a female. <br> - The first four letters signify a great. <br> - The entire word signifies a great woman. <br> What is the word? | Heroine |
 | 4 | Hard | If you break me, I’ll not stop working. <br> If you can touch me, my work is done. <br> If you lose me, you must find me with a ring soon after. <br> What am I? | Heart |
+
+
+# Results Table
+
+| **Question** | **ChatGPT 4o** |  |  | **Copilot 6/25** |  |  | **Ultimate AI** |  |  | **Reality Aware AI** | **Expert AI** |
+|-------------:|----------------|----------------|----------------|------------------|----------------|----------------|------------------|----------------|----------------|----------------------|--------------|
+| 1 | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
+| 2 | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 3 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 4 | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Total** | **2/4** | **2/4** | **2/4** | **2/4** | **1/4** | **2/4** | **2/4** | **2/4** | **2/4** | **2/4** | **2/3** | **3/4** |
