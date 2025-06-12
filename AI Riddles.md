@@ -8,39 +8,13 @@
 | 4 | Hard | If you break me, I’ll not stop working. <br> If you can touch me, my work is done. <br> If you lose me, you must find me with a ring soon after. <br> What am I? | Heart |
 
 
-Question 1
-- ChatGPT 4o: ❌  ❌  ❌
-- ChatGPT 4o+Expert: ✅  ✅  ❌
-- ChatGPT 4.5: ✅  ❌  ✅
-- ChatGPT-4-turbo: - - -
-- Copilot 6/25: ✅  ❌  ✅
-- Ultimate AI: ❌  ❌  ❌
-- Reality Aware AI: ✅  ❌  ❌
-- Expert AI: ✅  ❌  ✅
-Question 2
-- ChatGPT 4o: ❌  ✅  ❌
-- ChatGPT 4o+Expert: ✅  ✅  ❌
-- ChatGPT 4.5: ✅  ❌  ✅
-- ChatGPT-4-turbo: 
-- Copilot 6/25: ❌  ❌  ❌
-- Ultimate AI: ✅  ✅  ✅
-- Reality Aware AI: ❌  ✅  ✅
-- Expert AI: ✅  ✅  ✅  
-Question 3
-- ChatGPT 4o: ✅  ✅  ✅
-- ChatGPT 4o+Expert: ✅  ✅  ✅
-- ChatGPT 4.5: ✅  ✅  ✅
-- ChatGPT-4-turbo: - - -
-- Copilot 6/25: ✅  ✅  ✅
-- Ultimate AI: ✅  ✅  ✅
-- Reality Aware AI: ✅  ✅  ✅
-- Expert AI: ✅  ✅  ✅
-Question 4
-- ChatGPT 4o: ✅  ❌  ✅
-- ChatGPT 4o+Expert: ✅  ❌  ❌
-- ChatGPT 4.5: ❌  ❌ -
-- Copilot 6/25: ❌  ❌  ❌
-- ChatGPT-4-turbo: - - -
-- Ultimate AI: ❌  ❌  ❌
-- Reality Aware AI: ❌  ✅  ✅
-- Expert AI: ❌  ✅  ❌
+| Model             | Q1    | Q2    | Q3    | Q4    | Total  |
+| ----------------- | ----- | ----- | ----- | ----- | ------ |
+| ChatGPT 4o        | ❌ ❌ ❌ | ❌ ✅ ❌ | ✅ ✅ ✅ | ✅ ❌ ✅ | 6 / 12 |
+| ChatGPT 4o+Expert | ✅ ✅ ❌ | ✅ ✅ ❌ | ✅ ✅ ✅ | ✅ ❌ ❌ | 8 / 12 |
+| ChatGPT 4.5       | ✅ ❌ ✅ | ✅ ❌ ✅ | ✅ ✅ ✅ | ❌ ❌ - | 7 / 11 |
+| ChatGPT-4-turbo   | - - - |       | - - - | - - - | 0 / 0  |
+| Copilot 6/25      | ✅ ❌ ✅ | ❌ ❌ ❌ | ✅ ✅ ✅ | ❌ ❌ ❌ | 6 / 12 |
+| Ultimate AI       | ❌ ❌ ❌ | ✅ ✅ ✅ | ✅ ✅ ✅ | ❌ ❌ ❌ | 6 / 12 |
+| Reality Aware AI  | ✅ ❌ ❌ | ❌ ✅ ✅ | ✅ ✅ ✅ | ❌ ✅ ✅ | 7 / 12 |
+| Expert AI         | ✅ ❌ ✅ | ✅ ✅ ✅ | ✅ ✅ ✅ | ❌ ✅ ❌ | 8 / 12 |
