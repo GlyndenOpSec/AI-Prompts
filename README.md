@@ -28,7 +28,7 @@ Me, fucking around too much...
 | `Autonomous Mega-Prompt Loop.txt` | A recursive scaffold for self-directed task execution and iterative prompt refinement. |
 | `Shortened AMPL.txt` | A token-efficient version of the AMPL for compact deployments. |
 | `Fractal Reasoning Loop.txt` <br> `Fractal Reasoning Loop (FRL).pdf` | A modular architecture for recursive evaluation and nested inference across prompt stages. |
-| `Reality-Aware Autonomous Inference Pattern.txt` | A reasoning pattern for grounding outputs in verifiable reality. |
+| `RAAIP.txt` <br> `Reality Aware Autonomous Inference Pattern Explanation.txt` | A reasoning pattern for grounding outputs in verifiable reality. |
 | `Gamify Prompt Training Prompt.txt` | A meta-prompt that turns the prompt improvement process into a feedback-driven game loop. |
 | `Universal Expert AI Prompt.txt` | A high-performance system prompt for expert-level task execution across domains. |
 | `Ultimate Universal AI Prompt.txt` <br> `The Ultimate Universal AI Prompt for Any Domain.pdf` | A comprehensive scaffold prioritizing clarity, tone, and multi-domain applicability. |
