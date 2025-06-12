@@ -10,24 +10,28 @@
 
 Question 1
 - ChatGPT 4o: ❌  ❌  ❌
+- ChatGPT 4.5: 
 - Copilot 6/25: ✅  ❌  ✅
 - Ultimate AI: ❌  ❌  ❌
 - Reality Aware AI: ✅  ❌  ❌
 - Expert AI: ✅  ❌  ✅
 Question 2
 - ChatGPT 4o: ❌  ✅  ❌
+- ChatGPT 4.5: 
 - Copilot 6/25: ❌  ❌  ❌
 - Ultimate AI: ✅  ✅  ✅
 - Reality Aware AI: ❌  ✅  ✅
 - Expert AI: ✅  ✅  
 Question 3
 - ChatGPT 4o: ✅  ✅  ✅
+- ChatGPT 4.5: 
 - Copilot 6/25: ✅  ✅  ✅
 - Ultimate AI: ✅  ✅  ✅
 - Reality Aware AI: ✅  ✅  ✅
 - Expert AI: 
 Question 4
 - ChatGPT 4o: ✅  ❌  ✅
+- ChatGPT 4.5: 
 - Copilot 6/25: ❌  ❌  ❌
 - Ultimate AI: ❌  ❌  ❌
 - Reality Aware AI: ❌  ✅  ✅
