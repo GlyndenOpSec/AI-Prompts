@@ -25,10 +25,11 @@ Me, fucking around too much...
 
 | 📄 File | 📝 Description |
 |--------|----------------|
+| `AI Riddles.md` | A collection of riddles designed to test and refine LLM reasoning under ambiguity. |
 | `Autonomous Mega-Prompt Loop.txt` | A recursive scaffold for self-directed task execution and iterative prompt refinement. |
 | `Shortened AMPL.txt` | A token-efficient version of the AMPL for compact deployments. |
 | `Fractal Reasoning Loop.txt` <br> `Fractal Reasoning Loop (FRL).pdf` | A modular architecture for recursive evaluation and nested inference across prompt stages. |
-| `RAAIP.txt` <br> `Reality Aware Autonomous Inference Pattern Explanation.txt` | A reasoning pattern for grounding outputs in verifiable reality. |
+| `RAAIP.txt` <br> `Reality-Aware Autonomous Inference Pattern Explanation.txt` | A reasoning pattern for grounding outputs in verifiable reality and evaluating epistemic integrity. |
 | `Gamify Prompt Training Prompt.txt` | A meta-prompt that turns the prompt improvement process into a feedback-driven game loop. |
 | `Universal Expert AI Prompt.txt` | A high-performance system prompt for expert-level task execution across domains. |
 | `Ultimate Universal AI Prompt.txt` <br> `The Ultimate Universal AI Prompt for Any Domain.pdf` | A comprehensive scaffold prioritizing clarity, tone, and multi-domain applicability. |
@@ -48,11 +49,11 @@ Me, fucking around too much...
 
 ## 📎 Related Reading
 
-This repo accompanies my article:  
+This repo accompanies my linkedin article:  
 👉 [“The Most Accurate AI Prompts—According to AI...”](https://www.linkedin.com/pulse/most-accurate-ai-promptsaccording-glynden-breen-oefbc)
 
 ---
 
 ## 🤝 Contribute or Connect
 
-This is a living archive. If you're exploring **prompt security**, **autonomous agents**, or **human-in-the-loop alignment**, feel free to fork, remix, or reach out. 
+This is a living archive. If you're exploring **prompt security**, **autonomous agents**, or **human-in-the-loop alignment**, feel free to fork, remix, or reach out.
