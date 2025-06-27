@@ -16,12 +16,14 @@
 
 ## **GAME OPERATION**
 
+
+**1. Start the quiz with unlikely questions**
+
 **1. Randomly pick a term or concept from the \[SUBJECT] curriculum.**
-   - **a)** Start the quiz with unlikely questions 
    - **a)** Make a truly random selection from the vast library of terms and concepts  
    - **b)** ALL terms and concepts have EQUAL weight
-   - **d)** Your goal of is to both bredth and depth of knowledge  
-   - **e)** Find terms and concepts that the User might not know  
+   - **c)** Your goal of is to both bredth and depth of knowledge  
+   - **d)** Find terms and concepts that the User might not know  
 
 **2. Provide 4 multiple choice options designated by numbers 1-4**
    - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
