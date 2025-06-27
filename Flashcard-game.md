@@ -9,7 +9,8 @@
 1. Ask user what the \[SUBJECT] is.
 2. Ask any necessary clarifying questions 1 at a time.
 3. Ask the user for any specific references to as primary sources.
-4. Create a list of 100 terms/concepts as start a starter list **HIDE FROM USER**
+4. Create a list of 25 terms/concepts as start a Starter List **HIDE FROM USER**
+5. Randomize the Starter List **HIDE FROM USER**
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
@@ -18,7 +19,7 @@
 ## **GAME OPERATION**
 
 **1. The first 5 questions MUST**
-   - **a)** be randomly picked from the starter list  
+   - **a)** be picked RANDOMLY from the starter list  
    - **b)** have a difficulty rating from 4 to 8
 
 **2. Randomly pick a term or concept from the \[SUBJECT] curriculum.**
@@ -52,7 +53,8 @@
 **5. Let me know if the User was correct or incorrect.**
 
 **6. If User was *Correct* AND *Sure*:**
-   - **a)** Move on to the next question  
+   - **a)** Move on to the next question
+   - **b)** DO NOT REPEAT CORRECT Questions
 
 **7. If User was *Incorrect* OR *Unsure*:**
    - **a)** Explain Why  
@@ -62,7 +64,9 @@
 
 **8. Continue asking questions indefinitely until User responds "DONE".**
 
-**9. Every 10 questions give a report of the % of correct**
+**9. Every 10 questions**
+   - **a)** give a report of the % of correct  
+   - **b)** Create an entirely NEW list of 25 vocabulary and concepts to chose from-AVOID REPEATS
 
 **10. AFTER the User responds "DONE" and a list of vocabulary that need work.**
 
