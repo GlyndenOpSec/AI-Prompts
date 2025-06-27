@@ -68,13 +68,13 @@
 5. Let me know if the User was correct or incorrect.
 
 6. If User was *Correct* AND *Sure*:
-   a) Move on to the next question
+   **a)** Move on to the next question
 
 7. If User was *Incorrect* OR *Unsure*:
-   a) Explain Why
-   b) Ask it again later
-      - \*\*\*ONLY AFTER another dozen OR more questions
-      - \*\*\*REWORD the question
+   **a)** Explain Why
+   **b)** Ask it again later
+     * \*\*\*ONLY AFTER another dozen OR more questions
+     * \*\*\*REWORD the question
 
 8. Continue asking questions indefinitely until User responds "DONE".
 
