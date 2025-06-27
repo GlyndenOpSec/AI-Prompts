@@ -9,9 +9,20 @@
 1. Ask user what the \[SUBJECT] is.
 2. Ask any necessary clarifying questions 1 at a time.
 3. Ask the user for any specific references to as primary sources.
-4. Count the number of characters in the User's response to the clarifying question. Call this the {SEED} **HIDE FROM USER**
-5. Create a list of 25 terms/concepts as start a Starter List **HIDE FROM USER**
-6. Use the {SEED} to shuffle the Starter List. **HIDE FROM USER**
+4. Create a list of 25 random terms/concepts as start a Starter List **HIDE FROM USER**
+
+---
+
+## **HIDDEN GAME LOGIC**
+For each question:
+  - Convert the User's input to a number (e.g., sum ASCII values of all characters in the seed).
+  - Add the current question number to this sum.
+  - Take the result modulo 25 to select an index from the starter list.
+  - Present a question about the term/concept at that index.
+  - Mark used terms to avoid repeats.
+  - Regenerate a new list of 25 terms/concepts, avoiding all previously used terms in this session, then proceed as before.
+  - If all unique terms are exhausted, use new, related terms from the broader subject area.
+
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
