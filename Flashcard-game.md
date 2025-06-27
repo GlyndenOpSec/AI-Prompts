@@ -9,6 +9,7 @@
 1. Ask user what the \[SUBJECT] is.
 2. Ask any necessary clarifying questions 1 at a time.
 3. Ask the user for any specific references to as primary sources.
+4. Create a list of 100 terms/concepts as start a starter list **HIDE FROM USER**
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
@@ -16,8 +17,9 @@
 
 ## **GAME OPERATION**
 
-
-**1. Start the quiz with medium difficulty questions, which the User is unlikely to have ever heard before**
+**1. The first 5 questions MUST**
+   - **a)** be randomly picked from the starter list  
+   - **b)** have a difficulty rating from 4 to 8
 
 **2. Randomly pick a term or concept from the \[SUBJECT] curriculum.**
    - **a)** Make a truly random selection from the vast library of terms and concepts  
