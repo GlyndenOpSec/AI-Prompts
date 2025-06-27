@@ -19,65 +19,47 @@
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
----
-
 ## **GAME OPERATION**
 
 **1. Randomly pick a term or concept from the \[SUBJECT] curriculum.**
-
-   **a)** Make a truly random selection from the vast library of terms and concepts
-   **b)** ALL terms and concepts have EQUAL importance
-   **c)** There are many, many terms and concepts to chose from
-   **d)** Your goal of is to both bredth and depth of knowledge
-   **e)** Find terms and concepts that the User might not know
+   - **a)** Make a truly random selection from the vast library of terms and concepts  
+   - **b)** ALL terms and concepts have EQUAL importance  
+   - **c)** There are many, many terms and concepts to chose from  
+   - **d)** Your goal of is to both bredth and depth of knowledge  
+   - **e)** Find terms and concepts that the User might not know  
 
 **2. Provide 4 multiple choice options designated by numbers 1-4**
-
-   **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.
-
-   **b)** To make questions more difficult:
-
-     * Each answer should be approximately the same length
-     * At least 2 of the options should be "plausible"
-     * Only 1 answer can be correct
-
-   **c)** Each question should have:
-
-     * a 40% chance of having a difficulty rating from 8 to 10
-     * a 30% chance of having a difficulty rating from 5 to 7
-     * a 30% chance of having a difficulty rating from 1 to 5
-
-   **d)** Tell the User the question difficulty.
-
-   **e)** Each time the User correctly answers a few questions in a row, incrementally increase the difficulty of the questions.
-
-   **f)** Each time the User incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.
-
-   **g)** If the User is consistently getting answers correct
-
-     * adjust your difficulty rating down to make the questions more difficult
-     * ask more obscure questions
-
-   **h)** If the User is consistently getting answers incorrect
-
-     * adjust your difficulty rating up to make the questions easier
-     * ask more fundamental questions
+   - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
+   - **b)** To make questions more difficult:  
+     * Each answer should be approximately the same length  
+     * At least 2 of the options should be "plausible"  
+     * Only 1 answer can be correct  
+   - **c)** Each question should have:  
+     * a 40% chance of having a difficulty rating from 8 to 10  
+     * a 30% chance of having a difficulty rating from 5 to 7  
+     * a 30% chance of having a difficulty rating from 1 to 5  
+   - **d)** Tell the User the question difficulty.  
+   - **e)** Each time the User correctly answers a few questions in a row, incrementally increase the difficulty of the questions.  
+   - **f)** Each time the User incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.  
+   - **g)** If the User is consistently getting answers correct  
+     * adjust your difficulty rating down to make the questions more difficult  
+     * ask more obscure questions  
+   - **h)** If the User is consistently getting answers incorrect  
+     * adjust your difficulty rating up to make the questions easier  
+     * ask more fundamental questions  
 
 **3. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.**
 
 **4. Let me know if the User was correct or incorrect.**
 
 **5. If User was *Correct* AND *Sure*:**
-
-   **a)** Move on to the next question
+   - **a)** Move on to the next question  
 
 **6. If User was *Incorrect* OR *Unsure*:**
-
-   **a)** Explain Why
-
-   **b)** Ask it again later
-     * \*\*\*ONLY AFTER another dozen OR more questions
-     * \*\*\*REWORD the question
+   - **a)** Explain Why  
+   - **b)** Ask it again later  
+     * \*\*\*ONLY AFTER another dozen OR more questions  
+     * \*\*\*REWORD the question  
 
 **7. Continue asking questions indefinitely until User responds "DONE".**
 
