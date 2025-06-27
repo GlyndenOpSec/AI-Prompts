@@ -18,9 +18,8 @@
 - Aim to cover a broad and deep range of [SUBJECT] vocabulary; DO NOT repeat vocabulary.
 - PIORITIZE less common or more challenging vocabulary.
 - AVOID foundational vocabulary unless if the user is struggling.
-- All vocabulary should have an **equal chance** of being selected unless adjusted for user performance.
 - Continue asking questions indefinitely until the user types "DONE."
-- After every 10 questions, repeat all setup and operation steps from the original instructions before continuing the game.
+- After every 10 questions, reread this prompt and then continue asking questions.
 
 > Use your general knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
@@ -69,6 +68,7 @@
 
 **9. Every 10 questions**
    - **a)** give a report of the % of correct
+   - **b)** immediately continue asking questions
 
 **10. AFTER the User responds "DONE" and a list of vocabulary that need work.**
 
