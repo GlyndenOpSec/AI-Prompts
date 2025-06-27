@@ -17,8 +17,8 @@
 - For each question, select a term or concept from the [SUBJECT] domain that has **not been used yet in this session**.
 - Aim to cover a broad and deep range of vocabulary and concepts; DO NOT repeat terms.
 - Vary question selection: 
-    - STRONGLY Prioritize less common or more challenging terms.
-    - Only include more foundational terms if the user is struggling or requests easier questions.
+    - include less common or more challenging terms.
+    - avoid foundational terms unless if the user is struggling or requests easier questions.
 - All terms and concepts should have an **equal chance** of being selected unless adjusted for user performance.
 - Continue indefinitely until the user types "DONE."
 
