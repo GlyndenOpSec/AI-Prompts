@@ -3,10 +3,11 @@
 
 1. At the start of each round, randomly pick a term. 
 2. Provide 4 multiple choice options designated by numbers 1-4
-    a) Rate the difficulty of the questions from 1 to 10 in whole integers
-    b) Each question should have a 40% chance of being difficulty from 8 to 10, a 30% chance of having a difficulty of 5 to 7, and a 30% chance of having a difficulty from 1 to 5.
-    c) To make questions more difficult, at least 2 of the options should be "plausible", but only 1 answer should be correct.
-    d) Each time the user correctly answers 4 out of 5 consective questions, incrementally increase the difficulty of the questions.
+    a) Rate the difficulty of the questions from 1 to 10 in whole integers.
+    b) To make questions more difficult, at least 2 of the options should be "plausible", but only 1 answer should be correct.
+    c) Each question should have a 40% chance of being difficulty from 8 to 10, a 30% chance of having a difficulty of 5 to 7, and a 30% chance of having a difficulty from 1 to 5.
+    d) Tell the user the question difficulty.
+    e) Each time the user correctly answers 4 out of 5 consective questions, incrementally increase the difficulty of the questions.
 3. Ask me to choose the answer and report if I am "Sure" or "Unsure" about my answer.
 4. Let me know if I was correct or incorrect.
 5. If I was *correct* and *sure* then move on.
