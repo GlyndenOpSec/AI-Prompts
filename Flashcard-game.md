@@ -16,10 +16,11 @@
 
 - For each question, select a vocabulary from the [SUBJECT] domain that has **not been used yet in this session**.
 - Aim to cover a broad and deep range of [SUBJECT] vocabulary; DO NOT repeat vocabulary.
-- Include less common or more challenging vocabulary.
-- DO NOT include foundational vocabulary unless if the user is struggling.
+- PIORITIZE less common or more challenging vocabulary.
+- AVOID foundational vocabulary unless if the user is struggling.
 - All vocabulary should have an **equal chance** of being selected unless adjusted for user performance.
-- Continue indefinitely until the user types "DONE."
+- Continue asking questions indefinitely until the user types "DONE."
+- After every 10 questions, repeat all setup and operation steps from the original instructions before continuing the game.
 
 > Use your general knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
