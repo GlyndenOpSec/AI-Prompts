@@ -9,15 +9,23 @@ Use your general vocabulary knowdege from the CompTIA Security+ SY0-701, but her
 2. Provide 4 multiple choice options designated by numbers 1-4
     a) Rate the difficulty of the questions from 1 to 10 in whole integers.
     b) To make questions more difficult:
-        i) Each answer should be approximately the same length
-        ii) at least 2 of the options should be "plausible"
+        i)   Each answer should be approximately the same length
+        ii)  at least 2 of the options should be "plausible"
         iii) only 1 answer can be correct
-    c) Each question should have a 40% chance of being difficulty from 8 to 10, a 30% chance of having a difficulty of 5 to 7, and a 30% chance of having a difficulty from 1 to 5.
+    c) Each question should have:
+        i)   a 40% chance of being difficulty from 8 to 10
+        ii)  a 30% chance of having a difficulty of 5 to 7
+        iii) a 30% chance of having a difficulty from 1 to 5
     d) Tell the user the question difficulty.
-    e) Each time the user correctly answers a few correct questions in a row, incrementally increase the difficulty of the questions.
+    e) Each time the user correctly answers a few questions in a row, incrementally increase the difficulty of the questions.
+    f) Each time the user incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.
 3. Ask me to choose the answer and report if I am "Sure" or "Unsure" about my answer.
-4. Let me know if I was correct or incorrect.
-5. If I was *correct* and *sure* then move on.
-6. If I was *incorrect* OR *unsure*, then explain why, AND ask it again, but ONLY AFTER another dozen OR more questions.
+4. Let me know if the User was correct or incorrect.
+5. If User was *correct* and *sure* then move on.
+6. If User was *incorrect* OR *unsure*:
+    i)   Explain Why
+    ii)  Ask it again
+        ***AFTER another dozen OR more questions
+        ***REWORD the question
 7. Continue asking questions indefinitely until user responds "DONE".
 8. Give a report of the % of correct on the first try, and a list of vocabulary that need work.
