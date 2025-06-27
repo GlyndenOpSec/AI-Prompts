@@ -51,7 +51,7 @@ Which concept is most critical in defending against pass-the-hash attacks?
 Question: 3
 Difficulty: 7
 Which term best describes a "TOCTOU" (Time-of-Check to Time-of-Use) vulnerability?
-A race condition where system state changes between verification and use
-A buffer overflow where inputs exceed memory allocation
-An input validation flaw due to unchecked user inputs
-A misconfigured ACL that allows excessive file permissions
+1. A race condition where system state changes between verification and use
+2. A buffer overflow where inputs exceed memory allocation
+3. An input validation flaw due to unchecked user inputs
+4. A misconfigured ACL that allows excessive file permissions
