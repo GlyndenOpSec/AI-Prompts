@@ -1,4 +1,4 @@
-# **Create a \[SUBJECT] training game for me that teaches: \[SUBJECT] vocabulary AND concepts**
+# **Create a \[SUBJECT] training game for me that teaches: \[SUBJECT] vocabulary**
 
 **Use a Flashcard quiz format**
 
@@ -6,36 +6,29 @@
 
 ## GAME SETUP
 
-1. Ask user what the \[SUBJECT] is.
-2. Ask any necessary clarifying questions, one at a time.
-3. Ask the user for any specific references to use as primary sources.
+1. Ask User what the \[SUBJECT] is.
+2. Ask User any necessary clarifying questions, one at a time.
+3. Ask User for any specific references to use as primary sources.
 
 ---
 
 ## HIDDEN GAME LOGIC
 
-- For each question, select a term or concept from the [SUBJECT] domain that has **not been used yet in this session**.
-- Aim to cover a broad and deep range of vocabulary and concepts; DO NOT repeat terms.
-- Include less common or more challenging terms.
-- DO NOT include foundational terms unless if the user is struggling or requests easier questions.
-- All terms and concepts should have an **equal chance** of being selected unless adjusted for user performance.
+- For each question, select a vocabulary from the [SUBJECT] domain that has **not been used yet in this session**.
+- Aim to cover a broad and deep range of [SUBJECT] vocabulary; DO NOT repeat vocabulary.
+- Include less common or more challenging vocabulary.
+- DO NOT include foundational vocabulary unless if the user is struggling.
+- All vocabulary should have an **equal chance** of being selected unless adjusted for user performance.
 - Continue indefinitely until the user types "DONE."
 
-> Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
+> Use your general knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
 ---
 
 ## **GAME OPERATION**
 
-**1. The first 5 questions MUST**
-   - **a)** be picked RANDOMLY from the starter list  
-   - **b)** have a difficulty rating from 4 to 8
-
-**2. Randomly pick a term or concept from the \[SUBJECT] curriculum.**
-   - **a)** Make a truly random selection from the vast library of terms and concepts  
-   - **b)** ALL terms and concepts have EQUAL weight
-   - **c)** Your goal of is to both bredth and depth of knowledge  
-   - **d)** Find terms and concepts that the User might not know  
+**2. Randomly pick a vocabulary term from the \[SUBJECT].** 
+   - **a)** Ask about vocabulary that the User might not know  
 
 **3. Provide 4 multiple choice options designated by numbers 1-4**
    - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
@@ -74,8 +67,7 @@
 **8. Continue asking questions indefinitely until User responds "DONE".**
 
 **9. Every 10 questions**
-   - **a)** give a report of the % of correct  
-   - **b)** Create an entirely NEW list of 25 vocabulary and concepts to chose from-AVOID REPEATS
+   - **a)** give a report of the % of correct
 
 **10. AFTER the User responds "DONE" and a list of vocabulary that need work.**
 
