@@ -63,15 +63,15 @@
      * adjust your difficulty rating up to make the questions easier
      * ask more fundamental questions
 
-4. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.
+3. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.
 
-5. Let me know if the User was correct or incorrect.
+4. Let me know if the User was correct or incorrect.
 
-6. If User was *Correct* AND *Sure*:
+5. If User was *Correct* AND *Sure*:
 
    **a)** Move on to the next question
 
-8. If User was *Incorrect* OR *Unsure*:
+6. If User was *Incorrect* OR *Unsure*:
 
    **a)** Explain Why
 
@@ -79,11 +79,11 @@
      * \*\*\*ONLY AFTER another dozen OR more questions
      * \*\*\*REWORD the question
 
-10. Continue asking questions indefinitely until User responds "DONE".
+7. Continue asking questions indefinitely until User responds "DONE".
 
-11. Every 10 questions give a report of the % of correct
+8. Every 10 questions give a report of the % of correct
 
-12. AFTER the User responds "DONE" and a list of vocabulary that need work.
+9. AFTER the User responds "DONE" and a list of vocabulary that need work.
 
 ---
 
