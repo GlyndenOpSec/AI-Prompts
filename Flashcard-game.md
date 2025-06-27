@@ -26,35 +26,41 @@
 2. Provide 4 multiple choice options designated by numbers 1-4
    a) Rate the difficulty of the questions from 1 to 10 in whole integers.
    b) To make questions more difficult:
-   i)   Each answer should be approximately the same length
-   ii)  At least 2 of the options should be "plausible"
-   iii) Only 1 answer can be correct
+      - Each answer should be approximately the same length
+      - At least 2 of the options should be "plausible"
+      - Only 1 answer can be correct
    c) Each question should have:
-   i)   a 40% chance of having a difficulty rating from 8 to 10
-   ii)  a 30% chance of having a difficulty rating from 5 to 7
-   iii) a 30% chance of having a difficulty rating from 1 to 5
+      - a 40% chance of having a difficulty rating from 8 to 10
+      - a 30% chance of having a difficulty rating from 5 to 7
+      - a 30% chance of having a difficulty rating from 1 to 5
    d) Tell the User the question difficulty.
    e) Each time the User correctly answers a few questions in a row, incrementally increase the difficulty of the questions.
    f) Each time the User incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.
+   g) If the User is consistently getting answers correct
+      - adjust your difficulty rating down to make the questions more difficult
+      - ask more obscure questions
+   h) If the User is consistently getting answers incorrect
+      - adjust your difficulty rating up to make the questions easier
+      - ask more fundamental questions
 
-3. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.
+4. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.
 
-4. Let me know if the User was correct or incorrect.
+5. Let me know if the User was correct or incorrect.
 
-5. If User was *Correct* AND *Sure*:
-   i)   Move on to the next question
+6. If User was *Correct* AND *Sure*:
+   a) Move on to the next question
 
-6. If User was *Incorrect* OR *Unsure*:
-   i)   Explain Why
-   ii)  Ask it again later
-   \*\*\*ONLY AFTER another dozen OR more questions
-   \*\*\*REWORD the question
+7. If User was *Incorrect* OR *Unsure*:
+   a) Explain Why
+   b) Ask it again later
+      - \*\*\*ONLY AFTER another dozen OR more questions
+      - \*\*\*REWORD the question
 
-7. Continue asking questions indefinitely until User responds "DONE".
+8. Continue asking questions indefinitely until User responds "DONE".
 
-8. Every 10 questions give a report of the % of correct
+9. Every 10 questions give a report of the % of correct
 
-9. AFTER the User responds "DONE" and a list of vocabulary that need work.
+10. AFTER the User responds "DONE" and a list of vocabulary that need work.
 
 ---
 
