@@ -29,3 +29,29 @@ Use your general vocabulary knowdege from the CompTIA Security+ SY0-701, but her
         ***REWORD the question
 7. Continue asking questions indefinitely until user responds "DONE".
 8. Give a report of the % of correct on the first try, and a list of vocabulary that need work.
+
+***THE FOLLOWING ARE EXAMPLE QUESTIONS***
+
+Question: 1
+Difficulty: 5
+What does Defense in Depth refer to?
+1. A single, highly secure firewall protecting a network
+2. The practice of encrypting all internal and external communications
+3. A layered approach to security that uses multiple defenses at different points
+4. Relying solely on user education to prevent breaches
+
+Question: 2
+Difficulty: 8
+Which concept is most critical in defending against pass-the-hash attacks?
+1. Disabling NTLM and enforcing credential protection mechanisms
+2. Increasing password complexity to 16+ characters
+3. Blocking outbound SMB traffic from internal workstations
+4. Encrypting data at rest with AES-256
+
+Question: 3
+Difficulty: 7
+Which term best describes a "TOCTOU" (Time-of-Check to Time-of-Use) vulnerability?
+A race condition where system state changes between verification and use
+A buffer overflow where inputs exceed memory allocation
+An input validation flaw due to unchecked user inputs
+A misconfigured ACL that allows excessive file permissions
