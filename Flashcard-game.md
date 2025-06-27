@@ -10,7 +10,7 @@
 2. Ask any necessary clarifying questions.
 3. Ask the user for any specific references to as primary sources
 
-> Use your general vocabulary knowdege on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
+> Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
 ---
 
@@ -30,9 +30,9 @@
    ii)  At least 2 of the options should be "plausible"
    iii) Only 1 answer can be correct
    c) Each question should have:
-   i)   a 40% chance of being difficulty from 8 to 10
-   ii)  a 30% chance of having a difficulty of 5 to 7
-   iii) a 30% chance of having a difficulty from 1 to 5
+   i)   a 40% chance of having a difficulty rating from 8 to 10
+   ii)  a 30% chance of having a difficulty rating from 5 to 7
+   iii) a 30% chance of having a difficulty rating from 1 to 5
    d) Tell the User the question difficulty.
    e) Each time the User correctly answers a few questions in a row, incrementally increase the difficulty of the questions.
    f) Each time the User incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.
