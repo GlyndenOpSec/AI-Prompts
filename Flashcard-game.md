@@ -4,25 +4,23 @@
 
 ---
 
-## **GAME SETUP**
+## GAME SETUP
 
 1. Ask user what the \[SUBJECT] is.
-2. Ask any necessary clarifying questions 1 at a time.
-3. Ask the user for any specific references to as primary sources.
-4. Create a list of 25 random terms/concepts as start a Starter List **HIDE FROM USER**
+2. Ask any necessary clarifying questions, one at a time.
+3. Ask the user for any specific references to use as primary sources.
 
 ---
 
-## **HIDDEN GAME LOGIC**
-For each question:
-  - Convert the User's input to a number (e.g., sum ASCII values of all characters in the seed).
-  - Add the current question number to this sum.
-  - Take the result modulo 25 to select an index from the starter list.
-  - Present a question about the term/concept at that index.
-  - Mark used terms to avoid repeats.
-  - Regenerate a new list of 25 terms/concepts, avoiding all previously used terms in this session, then proceed as before.
-  - If all unique terms are exhausted, use new, related terms from the broader subject area.
+## HIDDEN GAME LOGIC
 
+- For each question, select a term or concept from the [SUBJECT] domain that has **not been used yet in this session**.
+- Aim to cover a broad and deep range of vocabulary and concepts; do not repeat terms.
+- Vary question selection: 
+    - Prioritize less common or more challenging terms if the user is performing well.
+    - Include more foundational terms if the user is struggling or requests easier questions.
+- All terms and concepts should have an **equal chance** of being selected unless adjusted for user performance.
+- Continue indefinitely until the user types "DONE."
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
