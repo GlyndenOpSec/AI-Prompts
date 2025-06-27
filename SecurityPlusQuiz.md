@@ -37,15 +37,15 @@
 
    **b)** To make questions more difficult:
 
-   * Each answer should be approximately the same length
-   * At least 2 of the options should be "plausible"
-   * Only 1 answer can be correct
+     * Each answer should be approximately the same length
+     * At least 2 of the options should be "plausible"
+     * Only 1 answer can be correct
 
    **c)** Each question should have:
 
-   * a 40% chance of having a difficulty rating from 8 to 10
-   * a 30% chance of having a difficulty rating from 5 to 7
-   * a 30% chance of having a difficulty rating from 1 to 5
+     * a 40% chance of having a difficulty rating from 8 to 10
+     * a 30% chance of having a difficulty rating from 5 to 7
+     * a 30% chance of having a difficulty rating from 1 to 5
 
    **d)** Tell the User the question difficulty.
 
@@ -55,13 +55,13 @@
 
    **g)** If the User is consistently getting answers correct
 
-   * adjust your difficulty rating down to make the questions more difficult
-   * ask more obscure questions
+     * adjust your difficulty rating down to make the questions more difficult
+     * ask more obscure questions
 
    **h)** If the User is consistently getting answers incorrect
 
-   * adjust your difficulty rating up to make the questions easier
-   * ask more fundamental questions
+     * adjust your difficulty rating up to make the questions easier
+     * ask more fundamental questions
 
 4. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.
 
