@@ -9,8 +9,9 @@
 1. Ask user what the \[SUBJECT] is.
 2. Ask any necessary clarifying questions 1 at a time.
 3. Ask the user for any specific references to as primary sources.
-4. Create a list of 25 terms/concepts as start a Starter List **HIDE FROM USER**
-5. Randomize the Starter List **HIDE FROM USER**
+4. Count the number of characters in the User's response to the clarifying question. Call this the {SEED} **HIDE FROM USER**
+5. Create a list of 25 terms/concepts as start a Starter List **HIDE FROM USER**
+6. Use the {SEED} to shuffle the Starter List. **HIDE FROM USER**
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
 
