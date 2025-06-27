@@ -68,19 +68,22 @@
 5. Let me know if the User was correct or incorrect.
 
 6. If User was *Correct* AND *Sure*:
+
    **a)** Move on to the next question
 
-7. If User was *Incorrect* OR *Unsure*:
+8. If User was *Incorrect* OR *Unsure*:
+
    **a)** Explain Why
+
    **b)** Ask it again later
      * \*\*\*ONLY AFTER another dozen OR more questions
      * \*\*\*REWORD the question
 
-8. Continue asking questions indefinitely until User responds "DONE".
+10. Continue asking questions indefinitely until User responds "DONE".
 
-9. Every 10 questions give a report of the % of correct
+11. Every 10 questions give a report of the % of correct
 
-10. AFTER the User responds "DONE" and a list of vocabulary that need work.
+12. AFTER the User responds "DONE" and a list of vocabulary that need work.
 
 ---
 
