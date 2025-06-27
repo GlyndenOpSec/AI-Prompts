@@ -7,7 +7,7 @@
 ## **GAME SETUP**
 
 1. Ask user what the \[SUBJECT] is.
-2. Ask any necessary clarifying questions.
+2. Ask any necessary clarifying questions 1 at a time
 3. Ask the user for any specific references to as primary sources
 
 > Use your general vocabulary knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
