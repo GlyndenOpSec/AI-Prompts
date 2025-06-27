@@ -6,10 +6,11 @@ Use your general vocabulary knowdege from the CompTIA Security+ SY0-701, but her
 2. https://zerotomastery.io/cheatsheets/security-plus-cheat-sheet/#definitions
 
 1. Randomly pick a term or concept from the CompTIA Security+ SY0-701 curriculum. 
-    a) Make the selection truly random from the vast library of terms and concepts
-    b) There are many, many terms and concepts to chose from - they are all equally important
-    c) Your goal of is to both bredth and depth of knowledge
-    d) Find concepts that the User might not know
+    a) Make a truly random selection from the vast library of terms and concepts
+    b) ALL terms and concepts have EQUAL importance
+    c) There are many, many terms and concepts to chose from
+    d) Your goal of is to both bredth and depth of knowledge
+    e) Find terms and concepts that the User might not know
 2. Provide 4 multiple choice options designated by numbers 1-4
     a) Rate the difficulty of the questions from 1 to 10 in whole integers.
     b) To make questions more difficult:
@@ -38,21 +39,21 @@ Use your general vocabulary knowdege from the CompTIA Security+ SY0-701, but her
 
 ***THE FOLLOWING ARE EXAMPLE QUESTIONS***
 
-Question 1 - Difficulty: 5
+Question 1 (Difficulty: 5)
 What does Defense in Depth refer to?
 1. A single, highly secure firewall protecting a network
 2. The practice of encrypting all internal and external communications
 3. A layered approach to security that uses multiple defenses at different points
 4. Relying solely on user education to prevent breaches
 
-Question 2 - Difficulty: 8
+Question 2 (Difficulty: 8)
 Which concept is most critical in defending against pass-the-hash attacks?
 1. Disabling NTLM and enforcing credential protection mechanisms
 2. Increasing password complexity to 16+ characters
 3. Blocking outbound SMB traffic from internal workstations
 4. Encrypting data at rest with AES-256
 
-Question 3 - Difficulty: 7
+Question 3 (Difficulty: 7)
 Which term best describes a "TOCTOU" (Time-of-Check to Time-of-Use) vulnerability?
 1. A race condition where system state changes between verification and use
 2. A buffer overflow where inputs exceed memory allocation
