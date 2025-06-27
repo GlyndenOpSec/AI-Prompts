@@ -17,9 +17,9 @@
 ## **GAME OPERATION**
 
 **1. Randomly pick a term or concept from the \[SUBJECT] curriculum.**
+   - **a)** Start the quiz with unlikely questions 
    - **a)** Make a truly random selection from the vast library of terms and concepts  
-   - **b)** ALL terms and concepts have EQUAL importance  
-   - **c)** There are many, many terms and concepts to chose from  
+   - **b)** ALL terms and concepts have EQUAL weight
    - **d)** Your goal of is to both bredth and depth of knowledge  
    - **e)** Find terms and concepts that the User might not know  
 
