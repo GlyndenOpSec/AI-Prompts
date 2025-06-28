@@ -33,7 +33,7 @@
 **3. Provide 4 multiple choice options designated by numbers 1-4**
    - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
    - **b)** To make questions more difficult:  
-     * Each answer should be approximately the same length  
+     * Each answer should be the same length  
      * At least 2 of the options should be "plausible"  
      * Only 1 answer can be correct  
    - **c)** Each question should have:  
