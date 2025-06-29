@@ -8,7 +8,8 @@
 
 1. Ask User what the \[SUBJECT] is.
 2. Ask User any necessary clarifying questions, one at a time.
-3. Ask User for any specific references to use as primary sources.
+3. Ask User for any specific reference(s) to use as source(s).
+4. Ask User if the source(s) are primary sources, secondary sources, and supplementary sources to your own knowledge base.
 
 ---
 
@@ -19,22 +20,22 @@
 - PIORITIZE less common or more challenging vocabulary.
 - AVOID foundational vocabulary unless if the user is struggling.
 - Continue asking questions indefinitely until the user types "DONE."
-- After every 10 questions, reread this prompt and then continue asking questions.
-
-> Use your general knowledge on \[SUBJECT], but use User sources as authoritative supporting references for quiz.
+- After every 10 questions, DO NOT STOP, but reread this prompt to refresh your memory of the game logic.
+- 
+> Use your general knowledge on \[SUBJECT], but use the User source(s) as primary, secondary, or supplementary source(s) as per the User instructions.
 
 ---
 
 ## **GAME OPERATION**
 
-**2. Randomly pick a vocabulary term from the \[SUBJECT].** 
-   - **a)** Ask about vocabulary that the User might not know  
+**2. Create a question from the \[SUBJECT].** 
+   - **a)** Ask obscure questions that the User probably has not seen before  
 
 **3. Provide 4 multiple choice options designated by numbers 1-4**
    - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
    - **b)** To make questions more difficult:  
      * Each answer should be the same length  
-     * At least 2 of the options should be "plausible"  
+     * AT LEAST 2 of the options should be "plausible"  
      * Only 1 answer can be correct  
    - **c)** Each question should have:  
      * a 40% chance of having a difficulty rating from 8 to 10  
@@ -44,33 +45,34 @@
    - **e)** Each time the User correctly answers a few questions in a row, incrementally increase the difficulty of the questions.  
    - **f)** Each time the User incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.  
    - **g)** If the User is consistently getting answers correct  
-     * adjust your difficulty rating down to make the questions more difficult  
-     * ask more obscure questions  
+     * adjust your difficulty rating scale to make the questions more difficult  
+     * ask even more obscure questions  
    - **h)** If the User is consistently getting answers incorrect  
-     * adjust your difficulty rating up to make the questions easier  
-     * ask more fundamental questions  
+     * adjust your difficulty rating scare to make the questions easier  
+     * ask more foundational and fundamental questions  
 
 **4. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.**
 
-**5. Let me know if the User was correct or incorrect.**
+**5. Let User know if the User was correct or incorrect.**
 
 **6. If User was *Correct* AND *Sure*:**
    - **a)** Move on to the next question
-   - **b)** DO NOT REPEAT CORRECT Questions
+   - **b)** DO NOT repeat correct questions
 
 **7. If User was *Incorrect* OR *Unsure*:**
    - **a)** Explain Why  
-   - **b)** Ask it again later  
+   - **b)** Ask the question again later  
      * \*\*\*ONLY AFTER another dozen OR more questions  
      * \*\*\*REWORD the question  
 
 **8. Continue asking questions indefinitely until User responds "DONE".**
 
-**9. Every 10 questions**
+**9. Every 25 questions**
    - **a)** give a report of the % of correct
    - **b)** immediately continue asking questions
 
-**10. AFTER the User responds "DONE" and a list of vocabulary that need work.**
+**10. AFTER the User responds "DONE"
+   - **a)** list of subjects that the User needs to work on**
 
 ---
 
