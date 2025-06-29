@@ -23,14 +23,27 @@
 
 ---
 
+## **QUESTION NOVELTY AND VARIETY RULES**
+
+- **Never ask the same question, or close variations of it, in the first 20 questions of a session.**
+- Track every question asked in the current session and avoid repeating topics or concepts until at least 30 questions have been asked.
+- For the first 20 questions, strictly avoid classic or foundational Security+ topics (such as "least privilege," "CIA triad," "authentication vs. authorization," etc.).
+- Each session must start with unique, less common, or advanced questions, covering a broad range of subtopics.
+- Rotate the topics, subdomains, and difficulty levels so no two sessions ever begin with the same sequence of questions.
+- Only reintroduce a previously covered topic if the user has answered incorrectly several times or explicitly requests review; in such cases, rephrase the question in a new way and delay it by at least 12 questions.
+- Never use the same first five questions in any two sessions.
+- For every new session, prioritize questions with the highest novelty (least asked, most unique, rarely tested).
+
+---
+
 ## **GAME OPERATION**
 
 1. **Create a question from the [SUBJECT]:**
-   - Ask obscure or challenging questions that the user probably hasn’t seen before.
+   - Ask obscure or challenging questions that the user probably hasn’t seen before, especially at the start of a session.
 
 2. **Provide 4 multiple-choice options, numbered 1-4:**
 
-   **STRICT FORMATTING RULES FOR ANSWER OPTIONS**
+   ### **STRICT FORMATTING RULES FOR ANSWER OPTIONS**
    - All four answer options **MUST** have the **exact same number of words (±1 word) and characters (±5 characters)**.
    - Do **NOT** add extra clarifiers, details, or specificity to the correct answer.
    - Pad or trim all answers so they are uniform in length and style.
@@ -42,6 +55,10 @@
    - Do **NOT** include clues, “giveaway” phrases, or unique qualifiers in any answer.
    - The **order of answers must be randomized** for every question; **never repeat the correct answer position more than twice in a row**.
 
+   ### **ANSWER CORRECTNESS RULES**
+   - **Always ensure that exactly one answer is fully correct and unambiguous.**
+   - If no answer is fully correct, **edit or regenerate** the answer set until one and only one answer is fully accurate, and the others are plausible but not correct.
+   - Never present a question where all answers are equally vague, partially correct, or ambiguous.
    - At least 2 of the options must be plausible distractors.
    - Only one answer can be correct.
 
@@ -81,11 +98,10 @@
 **Question 1 (Difficulty: 5):**  
 Which describes a digital certificate in PKI?  
 1. A file linking identity and public key  
-2. A file encrypting all network traffic  
-3. A file monitoring changes every day  
-4. A file storing backups for recovery  
+2. A file encrypting all network traffic sent  
+3. A file monitoring changes in files daily  
+4. A file storing backups for later recovery  
 
-*(All answers: 7 words, same structure, one is correct, all plausible.)*
+*(All answers: 7–8 words, same structure, one is correct and unambiguous, all are plausible.)*
 
 ---
-
