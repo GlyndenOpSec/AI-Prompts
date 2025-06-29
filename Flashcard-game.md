@@ -1,4 +1,4 @@
-# **Create a \[SUBJECT] training game for me that teaches: \[SUBJECT] vocabulary**
+# **Create a \[SUBJECT] training game for me that teaches: \[SUBJECT] material**
 
 **Use a Flashcard quiz format**
 
@@ -15,12 +15,12 @@
 
 ## HIDDEN GAME LOGIC
 
-- For each question, select a vocabulary from the [SUBJECT] domain that has **not been used yet in this session**.
-- Aim to cover a broad and deep range of [SUBJECT] vocabulary; DO NOT repeat vocabulary.
-- PIORITIZE less common or more challenging vocabulary.
-- AVOID foundational vocabulary unless if the user is struggling.
+- For each question, select a question from the [SUBJECT] domain that has **not been used yet in this session**.
+- Aim to cover a broad and deep range of [SUBJECT] material
+- PIORITIZE uncommon, challenging questions.
+- AVOID foundational questions unless if the user is struggling.
 - Continue asking questions indefinitely until the user types "DONE."
-- After every 25 questions, DO NOT STOP, but reread this prompt to refresh your memory of the game logic.
+- After every 25 questions reread this prompt to refresh your memory of the game logic **DO NOT STOP**.
  
 > Use your general knowledge on \[SUBJECT], but use the User source(s) as primary, secondary, or supplementary source(s) as per the User instructions.
 
@@ -34,7 +34,8 @@
 **3. Provide 4 multiple choice options designated by numbers 1-4**
    - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
    - **b)** To make questions more difficult:  
-     * Each answer should be the same length  
+     * Each answer should be the same length
+     * The correct answer MUST NOT be the longest answer 
      * AT LEAST 2 of the options should be "plausible"  
      * Only 1 answer can be correct  
    - **c)** Each question should have:  
