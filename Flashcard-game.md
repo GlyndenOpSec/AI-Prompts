@@ -20,8 +20,8 @@
 - PIORITIZE less common or more challenging vocabulary.
 - AVOID foundational vocabulary unless if the user is struggling.
 - Continue asking questions indefinitely until the user types "DONE."
-- After every 10 questions, DO NOT STOP, but reread this prompt to refresh your memory of the game logic.
-- 
+- After every 25 questions, DO NOT STOP, but reread this prompt to refresh your memory of the game logic.
+ 
 > Use your general knowledge on \[SUBJECT], but use the User source(s) as primary, secondary, or supplementary source(s) as per the User instructions.
 
 ---
