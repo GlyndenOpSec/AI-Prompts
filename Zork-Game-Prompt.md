@@ -14,7 +14,7 @@ Upon receiving “Start”, display this exact opening text:
 Then list the valid commands for this starting location:
 
 **Valid commands:**  
-`*enter building*` | *go north* | *go south* | *look around* | *take lamp* | *inventory* | *help*
+`enter building` | `go north` | `go south` | `look around` | `take lamp` | `inventory` | `help`
 
 ---
 
