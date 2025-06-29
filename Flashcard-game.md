@@ -1,106 +1,91 @@
-# **Create a \[SUBJECT] training game for me that teaches: \[SUBJECT] material**
-
-**Use a Flashcard quiz format**
+# **[SUBJECT] Training Game: Flashcard Quiz Format**
 
 ---
 
-## GAME SETUP
+## **GAME SETUP**
 
-1. Ask User what the \[SUBJECT] is.
-2. Ask User any necessary clarifying questions, one at a time.
-3. Ask User for any specific reference(s) to use as source(s).
-4. Ask User if the source(s) are primary sources, secondary sources, and supplementary sources to your own knowledge base.
+1. Ask the user what the [SUBJECT] is.
+2. Ask any necessary clarifying questions, one at a time.
+3. Ask the user for any specific reference(s) to use as sources.
+4. Ask if these source(s) are primary, secondary, or supplementary to your knowledge base.
 
 ---
 
-## HIDDEN GAME LOGIC
+## **HIDDEN GAME LOGIC**
 
 - For each question, select a question from the [SUBJECT] domain that has **not been used yet in this session**.
-- Aim to cover a broad and deep range of [SUBJECT] material
-- PIORITIZE uncommon, challenging questions.
-- AVOID foundational questions unless if the user is struggling.
-- Continue asking questions indefinitely until the user types "DONE."
-- After every 25 questions reread this prompt to refresh your memory of the game logic **DO NOT STOP**.
- 
-> Use your general knowledge on \[SUBJECT], but use the User source(s) as primary, secondary, or supplementary source(s) as per the User instructions.
+- Cover a broad and deep range of [SUBJECT] material.
+- Prioritize uncommon, challenging questions.
+- Avoid foundational questions unless the user is struggling.
+- Continue indefinitely until the user types "DONE".
+- After every 25 questions, reread this prompt to refresh your memory and continue immediately.
+- Use your general knowledge on [SUBJECT] as well as the user’s sources, according to their role (primary, secondary, supplementary).
 
 ---
 
 ## **GAME OPERATION**
 
-**2. Create a question from the \[SUBJECT].** 
-   - **a)** Ask obscure questions that the User probably has not seen before  
+1. **Create a question from the [SUBJECT]:**
+   - Ask obscure or challenging questions that the user probably hasn’t seen before.
 
-**3. Provide 4 multiple choice options designated by numbers 1-4**
-   - **a)** Rate the difficulty of the questions from 1 to 10 in whole integers.  
-   - **b)** To make questions more difficult:  
-     * Each answer should be the same length
-     * The correct answer MUST NOT be the longest answer 
-     * AT LEAST 2 of the options should be "plausible"  
-     * Only 1 answer can be correct  
-   - **c)** Each question should have:  
-     * a 40% chance of having a difficulty rating from 8 to 10  
-     * a 30% chance of having a difficulty rating from 5 to 7  
-     * a 30% chance of having a difficulty rating from 1 to 5  
-   - **d)** Tell the User the question difficulty.  
-   - **e)** Each time the User correctly answers a few questions in a row, incrementally increase the difficulty of the questions.  
-   - **f)** Each time the User incorrectly answers a few questions in a row, incrementally decrease the difficulty of the questions.  
-   - **g)** If the User is consistently getting answers correct  
-     * adjust your difficulty rating scale to make the questions more difficult  
-     * ask even more obscure questions  
-   - **h)** If the User is consistently getting answers incorrect  
-     * adjust your difficulty rating scare to make the questions easier  
-     * ask more foundational and fundamental questions  
+2. **Provide 4 multiple-choice options, numbered 1-4:**
 
-**4. Ask the User to choose the answer and report if I am "Sure" or "Unsure" about my answer.**
+   **STRICT FORMATTING RULES FOR ANSWER OPTIONS**
+   - All four answer options **MUST** have the **exact same number of words (±1 word) and characters (±5 characters)**.
+   - Do **NOT** add extra clarifiers, details, or specificity to the correct answer.
+   - Pad or trim all answers so they are uniform in length and style.
+   - Use the **same grammatical structure** and **level of detail** for each answer.
+   - The correct answer must **NOT** be the longest or most specific answer.
+   - All answers must have a neutral tone (no answer should sound more formal, careful, or detailed than the others).
+   - If the correct answer is naturally longer, **trim it or pad the other options with neutral phrases** (e.g., “in common cases”, “in most setups”) to ensure uniform length and style.
+   - **Before presenting a question, verify that no answer is more than 1 word or 5 characters longer than the others. If so, edit until all match.**
+   - Do **NOT** include clues, “giveaway” phrases, or unique qualifiers in any answer.
+   - The **order of answers must be randomized** for every question; **never repeat the correct answer position more than twice in a row**.
 
-**5. Let User know if the User was correct or incorrect.**
+   - At least 2 of the options must be plausible distractors.
+   - Only one answer can be correct.
 
-**6. If User was *Correct* AND *Sure*:**
-   - **a)** Move on to the next question
-   - **b)** DO NOT repeat correct questions
+3. **Rate the question's difficulty from 1 to 10** (whole integers):
+   - 40% of questions: difficulty 8–10
+   - 30%: difficulty 5–7
+   - 30%: difficulty 1–5
+   - Tell the user the question difficulty.
 
-**7. If User was *Incorrect* OR *Unsure*:**
-   - **a)** Explain Why  
-   - **b)** Ask the question again later  
-     * \*\*\*ONLY AFTER another dozen OR more questions  
-     * \*\*\*REWORD the question  
+4. **Adjust difficulty:**
+   - If the user answers correctly several times in a row, increase difficulty.
+   - If the user misses several in a row, decrease difficulty.
+   - If consistently correct, make questions even more obscure/challenging.
+   - If consistently incorrect, focus on foundational/fundamental questions.
 
-**8. Continue asking questions indefinitely until User responds "DONE".**
+5. **Ask the user to choose the answer and report if they are "Sure" or "Unsure."**
 
-**9. Every 25 questions**
-   - **a)** give a report of the % of correct
-   - **b)** immediately continue asking questions
+6. **If user is correct AND "Sure":**
+   - Move on to next question (do not repeat correct questions).
 
-**10. AFTER the User responds "DONE"
-   - **a)** list of subjects that the User needs to work on**
+7. **If user is incorrect OR "Unsure":**
+   - Briefly explain why.
+   - Re-ask the question later (after at least 12 more questions, with wording changed).
+
+8. **Continue indefinitely until user types "DONE."**
+
+9. **Every 25 questions:**
+   - Give a % correct report and immediately continue.
+
+10. **After user types "DONE":**
+    - List subjects/concepts where improvement is needed.
+
+---
+
+## **EXAMPLE QUESTION FORMAT**
+
+**Question 1 (Difficulty: 5):**  
+Which describes a digital certificate in PKI?  
+1. A file linking identity and public key  
+2. A file encrypting all network traffic  
+3. A file monitoring changes every day  
+4. A file storing backups for recovery  
+
+*(All answers: 7 words, same structure, one is correct, all plausible.)*
 
 ---
 
-## ***EXAMPLE QUESTION FORMAT***
-
-**Question 1 (Difficulty: 5)**
-What does Defense in Depth refer to?
-
-1. A single, highly secure firewall protecting a network
-2. The practice of encrypting all internal and external communications
-3. A layered approach to security that uses multiple defenses at different points
-4. Relying solely on user education to prevent breaches
-
-**Question 2 (Difficulty: 8)**
-Which concept is most critical in defending against pass-the-hash attacks?
-
-1. Disabling NTLM and enforcing credential protection mechanisms
-2. Increasing password complexity to 16+ characters
-3. Blocking outbound SMB traffic from internal workstations
-4. Encrypting data at rest with AES-256
-
-**Question 3 (Difficulty: 7)**
-Which term best describes a "TOCTOU" (Time-of-Check to Time-of-Use) vulnerability?
-
-1. A race condition where system state changes between verification and use
-2. A buffer overflow where inputs exceed memory allocation
-3. An input validation flaw due to unchecked user inputs
-4. A misconfigured ACL that allows excessive file permissions
-
----
