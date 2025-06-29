@@ -102,6 +102,4 @@ Which describes a digital certificate in PKI?
 3. A file monitoring changes in files daily  
 4. A file storing backups for later recovery  
 
-*(All answers: 7–8 words, same structure, one is correct and unambiguous, all are plausible.)*
-
 ---
