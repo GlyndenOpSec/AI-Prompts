@@ -33,9 +33,7 @@ Then list the **valid commands available at this location**, based on the curren
 
 ### 🔹 Initial Valid Commands (at game start)
 
-```
-enter building | go north | go south | go east | go west | look around | inventory | help
-```
+`enter building` | `go north` | `go south` | `go east` | `go west` | `look around` | `inventory` | `help`
 
 ---
 
