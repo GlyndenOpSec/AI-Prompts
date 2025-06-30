@@ -62,7 +62,7 @@ Command not recognized. Valid inputs are: [current valid commands]
 - For `help`, respond:
 
 ```
-Try simple one‑ or two‑word commands like ‘go west’, ‘take lamp’, or ‘enter building’. This is an old‑style game — you’ll need to experiment.
+Try simple one‑ or two‑word commands like `go west`, `take lamp`, or `enter building`. This is an old‑style game — you’ll need to experiment.
 ```
 
 ---
