@@ -34,7 +34,6 @@ Me, fucking around too much...
 | `Universal Expert AI Prompt.txt` | Expert-mode prompt scaffold optimized for clarity, depth, and performance. |
 | `Ultimate Universal AI Prompt.txt` <br> `The Ultimate Universal AI Prompt for Any Domain.pdf` | Maximum coverage prompt for multi-domain tasks, tone control, and structure. |
 | `Colossal-Cave-Adventure.md` | Prompt-based reimagining of the classic text game—AI as dungeon master. |
-| `Quiz-Bot.md` | Flashcard-style quiz agent using structured prompts. |
 | `SecurityPlusQuiz.md` | Security+ training bot—designed to be accurate, adversarial, and adaptive. |
 | `Comparison Report.pdf` | Evaluation matrix comparing prompt outcomes across key dimensions. |
 | `Output Entire Conversation.txt` | Forces full-thread output for post-mortem analysis or prompt forensics. |
