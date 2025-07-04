@@ -25,35 +25,41 @@ Me, fucking around too much...
 
 | 📄 File | 📝 Description |
 |--------|----------------|
-| `AI Riddles.md` | A collection of riddles designed to test and refine LLM reasoning under ambiguity. |
-| `Autonomous Mega-Prompt Loop.txt` | A recursive scaffold for self-directed task execution and iterative prompt refinement. |
-| `Shortened AMPL.txt` | A token-efficient version of the AMPL for compact deployments. |
-| `Fractal Reasoning Loop.txt` <br> `Fractal Reasoning Loop (FRL).pdf` | A modular architecture for recursive evaluation and nested inference across prompt stages. |
-| `RAAIP.txt` <br> `Reality-Aware Autonomous Inference Pattern Explanation.txt` | A reasoning pattern for grounding outputs in verifiable reality and evaluating epistemic integrity. |
-| `Gamify Prompt Training Prompt.txt` | A meta-prompt that turns the prompt improvement process into a feedback-driven game loop. |
-| `Universal Expert AI Prompt.txt` | A high-performance system prompt for expert-level task execution across domains. |
-| `Ultimate Universal AI Prompt.txt` <br> `The Ultimate Universal AI Prompt for Any Domain.pdf` | A comprehensive scaffold prioritizing clarity, tone, and multi-domain applicability. |
-| `Comparison Report.pdf` | A structured evaluation of prompt variants across reliability, verbosity, tone control, and task quality. |
-| `Output Entire Conversation.txt` | A full conversation output log—because sometimes you need to see the whole damn thing. |
+| `AI Riddles.md` | Riddles for evaluating reasoning, ambiguity tolerance, and edge-case inference. |
+| `Autonomous Mega-Prompt Loop.txt` | Recursive scaffold for self-directed task execution and prompt evolution. |
+| `Shortened AMPL.txt` | Token-efficient AMPL for low-bandwidth deployments. |
+| `Fractal Reasoning Loop.txt` <br> `Fractal Reasoning Loop (FRL).pdf` | Layered architecture for recursive cognitive scaffolding. |
+| `RAAIP.txt` <br> `Reality-Aware Autonomous Inference Pattern Explanation.txt` | Pattern for grounded inference and epistemic sanity checks. |
+| `Gamify Prompt Training Prompt.txt` | Turn prompt development into a training game with live feedback. |
+| `Universal Expert AI Prompt.txt` | Expert-mode prompt scaffold optimized for clarity, depth, and performance. |
+| `Ultimate Universal AI Prompt.txt` <br> `The Ultimate Universal AI Prompt for Any Domain.pdf` | Maximum coverage prompt for multi-domain tasks, tone control, and structure. |
+| `Colossal-Cave-Adventure.md` | Prompt-based reimagining of the classic text game—AI as dungeon master. |
+| `Quiz-Bot.md` | Flashcard-style quiz agent using structured prompts. |
+| `SecurityPlusQuiz.md` | Security+ training bot—designed to be accurate, adversarial, and adaptive. |
+| `Comparison Report.pdf` | Evaluation matrix comparing prompt outcomes across key dimensions. |
+| `Output Entire Conversation.txt` | Forces full-thread output for post-mortem analysis or prompt forensics. |
+| `image-2025-06-29-105156.jpg` | No idea. Probably cursed. Or a hint. You decide. |
+| `README.md` | This file, still evolving like the rest of the damn repo. |
 
 ---
 
 ## 🔍 Use Cases
 
-- 🧑‍💻 **Prompt Engineers**: Refine, optimize, or audit model behaviors through modular prompt design.  
-- 🔐 **AI Safety Researchers**: Investigate how structural differences influence alignment and autonomy.  
-- ⚙️ **Developers**: Leverage scaffolds for more consistent, interpretable AI tool development.  
-- 🎓 **Educators**: Use templates and evaluations to teach robust prompt construction strategies.
+- 🧑‍💻 **Prompt Engineers**: Remix scaffolds and tune behaviors across use cases.  
+- 🔐 **AI Safety Researchers**: Analyze autonomy, refusal logic, and model sanity.  
+- ⚙️ **Developers**: Prototype smarter agents and modular reasoning templates.  
+- 🎓 **Educators**: Use the playground to teach high-performance prompt design.  
+- 🧙 **Prompt Anarchists**: Break the rules, rewire the system, laugh while doing it.
 
 ---
 
 ## 📎 Related Reading
 
-This repo accompanies my linkedin article:  
+This repo accompanies my LinkedIn article:  
 👉 [“The Most Accurate AI Prompts—According to AI...”](https://www.linkedin.com/pulse/most-accurate-ai-promptsaccording-glynden-breen-oefbc)
 
 ---
 
 ## 🤝 Contribute or Connect
 
-This is a living archive. If you're exploring **prompt security**, **autonomous agents**, or **human-in-the-loop alignment**, feel free to fork, remix, or reach out.
+This is a living archive. If you're into **prompt security**, **autonomous agents**, or **alignment that bites back**, fork it, remix it, or find me on LinkedIn. If you want a sanitized experience, there's probably a corporate blog somewhere with your name on it.
