@@ -105,6 +105,4 @@ Which describes a digital certificate in PKI?
 
 **Key takeaways:**  
 - Correct answer positions and difficulty ratings are **randomized by CSRNG Action, tracked, and balanced**.
-- No more than two in a row in the same spot.
 - Statistical balance over each 20-question segment.
-- Manual review and reshuffling to prevent patterns.
