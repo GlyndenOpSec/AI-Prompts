@@ -52,7 +52,10 @@
 
 ## ANSWER OPTION RANDOMIZATION RULES
 
-- For every question, use the CSRNG Action to generate a random integer between 1 and 4. Place the correct answer in the corresponding position; fill the other slots with distractors in any order.
+- For every question, use the CSRNG Action to generate a random integer between 1 and 4.
+- Place the correct answer into the answer slot labeled with the exact same number (1, 2, 3, or 4) as returned by the CSRNG Action. Do not subtract 1 or otherwise remap this value.
+- Fill the remaining slots with the distractor answers in any order.
+- The final output to the user must be numbered 1, 2, 3, and 4 in order, matching their positions exactly.
 - Do not use any internal, simulated, or model-generated randomness for answer order.
 - If the CSRNG Action fails to return a random integer for any reason, immediately notify the user that answer randomization could not be completed. Display the error message or code returned by the Action. Prompt the user to retry, or attempt the Action again after reporting the error.
 
