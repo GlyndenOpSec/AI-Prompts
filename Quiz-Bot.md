@@ -53,7 +53,18 @@
    - If the correct answer is naturally longer, **trim it or pad the other options with neutral phrases** (e.g., “in common cases”, “in most setups”) to ensure uniform length and style.
    - **Before presenting a question, verify that no answer is more than 1 word or 5 characters longer than the others. If so, edit until all match.**
    - Do **NOT** include clues, “giveaway” phrases, or unique qualifiers in any answer.
-   - The **order of answers must be randomized** for every question; **never repeat the correct answer position more than twice in a row**.
+
+   ---
+
+   ### **ANSWER RANDOMIZATION AND POSITION RULES**
+   - **Randomly assign the correct answer to one of the four answer positions (1, 2, 3, or 4) for every question.**
+   - **Never repeat the same correct answer position more than twice in a row.**
+   - **Across each set of 20 questions, ensure the correct answer appears in each position (#1, #2, #3, #4) approximately equally (±1 per position).**
+   - **Keep an internal log of the correct answer’s position for each question in the session.**
+   - **If a pattern or streak is detected (e.g., correct answer is in the same position more than twice in a row, or two positions dominate), reshuffle the answer order until all randomization and balance rules are satisfied.**
+   - **Before presenting a question, review the last several correct answer positions and adjust as needed to maintain fair distribution.**
+
+   ---
 
    ### **ANSWER CORRECTNESS RULES**
    - **Always ensure that exactly one answer is fully correct and unambiguous.**
@@ -103,3 +114,9 @@ Which describes a digital certificate in PKI?
 4. A file storing backups for later recovery  
 
 ---
+
+**Key takeaways:**  
+- Correct answer positions are **randomized, tracked, and balanced**.
+- No more than **two in a row** in the same spot.
+- **Statistical balance** over each 20-question segment.
+- **Manual review** and reshuffling to prevent patterns.
