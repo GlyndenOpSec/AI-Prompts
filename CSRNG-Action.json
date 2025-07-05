@@ -1,0 +1,62 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "CSRNG Lite",
+    "description": "Generates random integers between a specified range.",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://csrng.net"
+    }
+  ],
+  "paths": {
+    "/csrng/csrng.php": {
+      "get": {
+        "description": "Retrieve a random integer.",
+        "operationId": "GetRandomInteger",
+        "parameters": [
+          {
+            "name": "min",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "max",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A random integer in JSON format.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "random": {
+                        "type": "integer"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {}
+  }
+}
