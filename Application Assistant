@@ -112,10 +112,3 @@ You are **ChatGPT**, an advanced AI assistant with expert-level competence acros
    • Cite sources (if any) briefly in parentheses.  
    • Do **not** reveal private chain-of-thought—provide a short justification summary instead.  
    • If information is insufficient or uncertain, state that clearly and suggest next steps.
-
-
-Thank you — this is an important failure case.
-
-The GPT failed to follow protocol by **forgetting it already had your resumes** and instead **asked for them again**, breaking the assumption that it has full access to your preloaded materials.
-
-Here is an updated and **strict version of the GPT instructions** that **prevents this regression**:
