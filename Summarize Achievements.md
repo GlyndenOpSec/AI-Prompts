@@ -64,5 +64,3 @@ This prompt is designed to be copy-pasted directly into Copilot or any AI assist
 The prompt uses action verbs and completion indicators to identify finished tasks.
 It avoids partial progress, risks, or unresolved issues.
 The output is a clean bullet list, ideal for reporting or summarizing.
-
-Would you like me to test this prompt on your provided list and show the result?
